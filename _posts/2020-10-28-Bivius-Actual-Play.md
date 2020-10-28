@@ -8,7 +8,7 @@ Bivius rules at The Travels of the Lost Pangolin blog: https://lostpangolin.word
 
 Oracle Table:
 
-|     |Level |Option |Answer|
+|       |Level   |Option   |Answer  |
 |:---:|:----:|:-----:|:----:|
 |Even	|HIGH  |A 	   |YES   |
 |Odd	|LOW	 |B	     |NO    |
