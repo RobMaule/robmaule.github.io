@@ -7,6 +7,7 @@ published: true
 Bivius rules at The Travels of the Lost Pangolin blog: https://lostpangolin.wordpress.com/downloads/
 
 Oracle Table:
+
 |     |Level |Option |Answer|
 |:---:|:----:|:-----:|:----:|
 |Even	|HIGH  |A 	   |YES   |
