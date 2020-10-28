@@ -4,11 +4,11 @@ title: Bivius Actual Play
 published: true
 ---
 
-Bivius rules at The Travels of the Lost Pangolin blog: [https://lostpangolin.wordpress.com/downloads/](https://lostpangolin.wordpress.com/downloads/)
+Bivius rules at The Travels of the Lost Pangolin blog: [https://lostpangolin.wordpress.com/downloads/](https://lostpangolin.wordpress.com/downloads/){:target="_blank"}
 
 Oracle Table:
 
-|       |Level   |Option   |Answer  |
+|     |Level |Option |Answer|
 |:---:|:----:|:-----:|:----:|
 |Even	|HIGH  |A 	   |YES   |
 |Odd	|LOW	 |B	     |NO    |
