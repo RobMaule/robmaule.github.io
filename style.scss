@@ -247,6 +247,14 @@ nav {
   padding: 10px;
 }
 
+.mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        }
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
