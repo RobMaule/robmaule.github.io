@@ -16,10 +16,10 @@ Oracle Table:
 
 Starting a playthrough:
 <div class="bluebox">
-Flip a coin for either option A or B.  
-Genre: A) Fantasy or B) Sci-Fi - A  
-Combat: A) Magic or B) Weapons - B  
-Character: A) Strength or B) Dexterity - A  
+Flip a coin for either option A or B.<br/>
+Genre: A) Fantasy or B) Sci-Fi - A<br/>
+Combat: A) Magic or B) Weapons - B<br/>
+Character: A) Strength or B) Dexterity - A
 </div>
 
 The barbarian sits outside of a ruined cottage, where nature is in the process of slowly reclaiming. Night has fallen. He quietly sharpens his blade with a whetstone by a low fire. Piercing the silence, he hears the snap of a twig not far off and brings his two-handed sword to the ready.
