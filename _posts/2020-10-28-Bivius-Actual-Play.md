@@ -32,7 +32,7 @@ A) Band of Rogues or B) Someone in Need - A
 From the shadows, three figures emerge with menacing faces, advancing towards the muscled barbarian with short swords drawn.
 
 <div class="bluebox">
-<a href="https://www.fantasynamegenerators.com/barbarian-names.php>Random Barbarian Name<a/>: Throlr
+<a href="https://www.fantasynamegenerators.com/barbarian-names.php>Random Barbarian Name</a>: Throlr
 </div>
 
 Throlr seems to be at a disadvantage, with three attackers, but he is experienced in fighting and heard them coming. They are equally matched.
