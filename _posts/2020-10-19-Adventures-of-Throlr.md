@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bivius Actual Play
+title: Adventures of Throlr
 published: true
 ---
 
-Bivius rules at [The Travels of the Lost Pangolin](https://lostpangolin.wordpress.com/downloads/){:target="_blank"} blog.
+Starting off my solo RPG actual plays using Bivius, a simple binary option oracle and roleplaying system created by Riccardo Fregi.  Bivius rules at [The Travels of the Lost Pangolin](https://lostpangolin.wordpress.com/downloads/){:target="_blank"} blog.
 
 Oracle Table:
 
