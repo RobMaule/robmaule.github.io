@@ -32,7 +32,7 @@ A) Band of Rogues or B) Someone in Need - A
 From the shadows, three figures emerge with menacing faces, advancing towards the muscled barbarian with short swords drawn.
 
 <div class="bluebox">
-[Random Barbarian Name](https://www.fantasynamegenerators.com/barbarian-names.php): Throlr
+<a href="https://www.fantasynamegenerators.com/barbarian-names.php>Random Barbarian Name<a/>: Throlr
 </div>
 
 Throlr seems to be at a disadvantage, with three attackers, but he is experienced in fighting and heard them coming. They are equally matched.
@@ -55,7 +55,7 @@ B) Throlr is injured.
 With a guttural yell, Throlr once again brings his two-handed sword up and swings down to knock the brigand's sword aside and keep going right through his neck, nearly decapitating him. The last of the attackers does not seem so keen on dying this night, and so turns and flees back into the night and the forest. Throlr lets him go. There is no need to pursue.
 
 <div class="bluebox">
-[Random Sword Name](https://www.fantasynamegenerators.com/sword-names.php): The Untamed
+  <a href="https://www.fantasynamegenerators.com/sword-names.php">Random Sword Name</a>: The Untamed
 </div>
 
 The barbarian looks down at his sword, The Untamed. Blood coats most of its length from the damage it did to the unknown assailants. He senses that the sword does not want to be cleaned. It is as wild as he is. And so he leaves the blood to stain the steel.
