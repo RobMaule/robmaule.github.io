@@ -4,7 +4,7 @@ title: Bivius Actual Play
 published: true
 ---
 
-Bivius rules at The Travels of the Lost Pangolin blog: (https://lostpangolin.wordpress.com/downloads/)
+Bivius rules at The Travels of the Lost Pangolin blog: [https://lostpangolin.wordpress.com/downloads/](https://lostpangolin.wordpress.com/downloads/)
 
 Oracle Table:
 
