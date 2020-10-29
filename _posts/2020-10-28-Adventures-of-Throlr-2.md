@@ -15,7 +15,7 @@ Continuing the playthrough:
 As Throlr peers down the dark depths below, he is tempted to turn away and head down the forest path, but he remembers that the map was leading him toward someone that needed his help.  He could not turn away from the doing the right thing and helping someone.  He briefly took out the parchment to read it again, as best he could.  "Prisoner" was a word that meant something to him.
 
 <div class="bluebox">
-Who was a prisoner?
+Who was a prisoner?<br/>
 A) Himself or B) His Sister - B
 </div>
 
