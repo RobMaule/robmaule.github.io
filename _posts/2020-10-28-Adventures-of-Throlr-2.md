@@ -79,7 +79,7 @@ GMA (even odds): YES!<br/>
 <br/>
 Dungeon Architect Cards: Odd Room<br/>
 <br/>
-Zero Dice: <a href="http://tangent-zero.com/zero_dice/zero_dice.htm?&pic1=1422.png&pic2=0609.png" target="_blank">>Orcs</a>
+Zero Dice: <a href="http://tangent-zero.com/zero_dice/zero_dice.htm?&pic1=1422.png&pic2=0609.png" target="_blank">Orcs</a>
 </div>
 
 Splinters fly into the oddly shaped hexagonal room and Throlr flies after them, landing on his leather sandaled feet.  With a quick battle sense, he spies two orcs near the middle of the room and draws The Untamed.  Behind them, he spies the prisoner he seeks, chained to the back wall.  But he doesn't have time to think about that now.  There is a fight to be had, and his enemies have been caught by surprise.
