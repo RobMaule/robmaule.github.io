@@ -6,7 +6,7 @@ published: true
 
 The continuation of my solo play using Bivius.  I also decided to use Dungeon Architect Cards, as I wanted something to generate the rooms of the dungeon, as well as give helpful descriptor words.  I pulled out my GameMaster's Apprentice deck, as well, to add some variety to the choices.
 
-The [Dungeon Architect Cards](https://www.kickstarter.com/projects/305572273/dac-dungeon-architect-cards/description){:target="_blank"} are by Simian Circle games, from a Kickstarter.  The [https://www.drivethrucards.com/product/125685/The-GameMasters-Apprentice-Base-Deck](GameMaster's Apprentice){:target="_blank"} desk is by Larcenous Designs.
+The [Dungeon Architect Cards](https://www.kickstarter.com/projects/305572273/dac-dungeon-architect-cards/description){:target="_blank"} are by Simian Circle games, from a Kickstarter.  The [https://www.drivethrucards.com/product/125685/The-GameMasters-Apprentice-Base-Deck](GameMaster's Apprentice){:target="_blank"} deck is by Larcenous Designs.
 
 Part 1 can be read [here](/Adventures-of-Throlr/).
 
