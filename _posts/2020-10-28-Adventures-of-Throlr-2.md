@@ -12,14 +12,14 @@ Part 1 can be read [here](/Adventures-of-Throlr/).
 
 Continuing the playthrough:
 
-As Throlr peers down the dark depths below, he is tempted to turn away and head down the forest path, but he remembers that the map was leading him toward someone that needed his help.  He could not turn away from the doing the right thing and helping someone.  He briefly took out the parchment to read it again, as best he could.  "Prisoner" was a word that meant something to him.
+As Throlr peers down the dark depths below, he is tempted to turn away and head down the forest path, but he remembers that the map was leading him toward someone that needed his help.  He could not turn away from doing the right thing and helping someone.  He briefly took out the parchment to read it again, as best he could.  "Prisoner" was a word that meant something to him.
 
 <div class="bluebox">
 Who was a prisoner?<br/>
 A) Himself or B) His Sister - B
 </div>
 
-Tholr's sister was taken from their family home in a raid and imprisoned for three years before he could rescue her.  The thought that someone else's sister could need resuce steeled his resolve.  The barbarian tightly gripped the torch and proceeded downward until he reached the room below.
+Tholr's sister was taken from their family home in a raid and imprisoned for three years before he could rescue her.  The thought that someone else's sister could need rescue steeled his resolve.  The barbarian tightly gripped the torch and proceeded downward until he reached the room below.
 
 <div class="bluebox">
 Dungeon Architect Cards: Round Room
@@ -32,7 +32,7 @@ Does he hear anything?<br/>
 A) Yes or B) No - A
 </div>
 
-He does here the sound of people talking.
+He does hear the sound of people talking.
 
 <div class="bluebox">
 But which way?<br/>
@@ -82,7 +82,7 @@ Dungeon Architect Cards: Odd Room<br/>
 Zero Dice: <a href="http://tangent-zero.com/zero_dice/zero_dice.htm?&pic1=1422.png&pic2=0609.png" target="_blank">Orcs</a>
 </div>
 
-Splinters fly into the oddly shaped hexagonal room and Throlr flies after them, landing on his leather sandaled feet.  With a quick battle sense, he spies two orcs near the middle of the room and draws The Untamed.  Behind them, he spies the prisoner he seeks, chained to the back wall.  But he doesn't have time to think about that now.  There is a fight to be had, and his enemies have been caught by surprise.
+Splinters fly into the oddly shaped hexagonal room and Throlr flies after them, landing on his leather sandaled feet and dropping his torch.  Torches flicker on the side walls.  With a quick battle sense, he spies two orcs near the middle of the room and draws The Untamed.  Behind them, he spies the prisoner he seeks, chained to the back wall.  But he doesn't have time to think about that now.  There is a fight to be had, and his enemies have been caught by surprise.
 
 <div class="bluebox">
 Round 1 (High vs High): B<br/>
@@ -100,11 +100,11 @@ B) The orcs gang up on Throlr and wound him.
 
 Now that two strong enemies are fighting together against the hero, they have the advantage.  The orc axe swings downward toward Throlr's skull, but is parried at the last moment.  Then the sword, slashes in and does indeed catch the muscled fighter in the side.  Throlr grunts, not wanting to show his pain, but it is severe.  He doubles over and falls to the floor, his two-handed sword clattering next to him.  His vision starts to blur, but he can make out the orcs unchaining their captive and dragging her out the damaged door to the torture room.
 
-Throlr is barely awareof what is going on, but he manages to reach into the pouch at his waist and grab ahold of his totem.
+Throlr is barely aware of what is going on, but he manages to reach into the pouch at his waist and grab ahold of his totem.
 
 <div class="bluebox">
 What is his totem?<br/>
 A) Lion for strength or B) Snake for healing - B
 </div>
 
-His fingers find the snakeskin and he grips it tightly, his lips silently moving, chanting.  Suddenly, what was just a tattoo of a snake on his back starts to glow brightly.  The inked serpent lends it mystical energies to the steadfast warrior, mending the wound and bringing clarity back to his mind.  Drawing upon the totem and the tattoo will take its toll on him, but for now he is rejuvanated.  Throlr stands, picking up The Untamed.  The sword sports the thin line of blood from his first attack on the orcs.  It too, gives Throlr strength.  He starts walking to follow the orcs and prisoner.  The fighting is not yet finished.
+His fingers find the snakeskin and he grips it tightly, his lips silently moving, chanting.  Suddenly, what was just a tattoo of a snake on his back starts to glow brightly.  The inked serpent lends it mystical energies to the steadfast warrior, mending the wound and bringing clarity back to his mind.  Drawing upon the totem and the tattoo will take its toll on him, but for now he is rejuvenated.  Throlr stands, picking up The Untamed.  The sword sports the thin line of blood from his first attack on the orcs.  It too, gives Throlr strength.  He starts walking to follow the orcs and prisoner.  The fighting is not yet finished.
