@@ -109,4 +109,4 @@ A) Lion for strength or B) Snake for healing - B
 
 His fingers find the snakeskin and he grips it tightly, his lips silently moving, chanting.  Suddenly, what was just a tattoo of a snake on his back starts to glow brightly.  The inked serpent lends it mystical energies to the steadfast warrior, mending the wound and bringing clarity back to his mind.  Drawing upon the totem and the tattoo will take its toll on him, but for now he is rejuvenated.  Throlr stands, picking up The Untamed.  The sword sports the thin line of blood from his first attack on the orcs.  It too, gives Throlr strength.  He starts walking to follow the orcs and prisoner.  The fighting is not yet finished.
 
-!(/images/ThrolrMap.png)
+![Map So Far](/images/ThrolrMap.png)
