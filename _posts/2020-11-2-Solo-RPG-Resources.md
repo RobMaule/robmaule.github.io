@@ -30,12 +30,12 @@ Suggestive resources - provide direction and structure for your story.  Cards fr
 - [RPG Story Constructor](http://www.lustigesrollenspiel.de/storyconstructor/) - similar to above, but assigns icons to story parts or character traits [Part 2](https://levikornelsen.itch.io/situations2)
 - [Idea Generator](http://ideagenerator.creativitygames.net/) - random words and icons
 
-A rubric  - RPG system rules, such as: 
-- [Ironsworn|https://www.ironswornrpg.com/]]
-- [Rewind: Temporal Tales|https://www.drivethrurpg.com/product/180407/Rewind-Temporal-Tales]] - rules lite framework for telling stories of time travel, time loops, and precognition
-- [Bivius Solo RPG|https://lostpangolin.wordpress.com/downloads/]] - A simple RPG and Solo System
-- [Miso RPG|https://www.dieheart.net/miso-v1/]] - a freeform, minimalist, simple and FREE solo engine
-- [so1um|https://brunobord.github.io/so1um/]] - 
+A rubric - RPG system rules, such as: 
+- [Ironsworn](https://www.ironswornrpg.com/)
+- [Rewind: Temporal Tales](https://www.drivethrurpg.com/product/180407/Rewind-Temporal-Tales) - rules lite framework for telling stories of time travel, time loops, and precognition
+- [Bivius Solo RPG](https://lostpangolin.wordpress.com/downloads/) - A simple RPG and Solo System
+- [Miso RPG](https://www.dieheart.net/miso-v1/) - a freeform, minimalist, simple and FREE solo engine
+- [so1um](https://brunobord.github.io/so1um/) - 
 
 Something restrictive - answering questions to get yes/no answers
 - [RPGSolo yes/no](https://www.rpgsolo.com/)
