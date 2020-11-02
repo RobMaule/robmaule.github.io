@@ -49,7 +49,7 @@ Something restrictive - answering questions to get yes/no answers
 - [Fabled Lands](https://www.amazon.com/Fabled-Lands-1-War-Torn-Kingdom/dp/095673720X) - $9 book,  fantasy, CYOA-style
 - [Instant Game](https://www.nerdprideradio.com/Content/Downloads/InstantGame.pdf]) - Free PDF, generic
 - [Scarlet Heroes](https://www.drivethrurpg.com/product/127180/Scarlet-Heroes) - $15 PDF, fantasy
-- [Soloist RPG](https://thetrove.net/Books/_Collections/RPG/2.%20GM%20Emulators%20&%20Generic%20Solo%20Rules/SoloistRPG.pdf) - free PDF, generic
+- [Soloist RPG](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) - free PDF, generic
 - [ALONe: A Solo Game Engine BETA](https://www.drivethrurpg.com/product/168609/ALONe-A-Solo-Game-Engine-BETA) - (A Lonesome October Night) is a solo game engine designed specifically to support role playing with only one player and no Game Master
 https://ogc.rpglibrary.org/index.php?title=OpenD6
 https://microlite20.org/
