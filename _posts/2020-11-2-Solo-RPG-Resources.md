@@ -53,5 +53,6 @@ Something restrictive - answering questions to get yes/no answers
 - [Soloist RPG](https://drive.google.com/file/d/0B0W7DyELeCFcVUdDa3BpcmlVeFU/view) - free PDF, generic
 - [ALONe: A Solo Game Engine BETA](https://www.drivethrurpg.com/product/168609/ALONe-A-Solo-Game-Engine-BETA) - (A Lonesome October Night) is a solo game engine designed specifically to support role playing with only one player and no Game Master
 - [Risus: Ring of Thieves](https://www.drivethrurpg.com/product/172019/Risus-Ring-of-Thieves--A-Free-Fantasy-Solitaire-Adventure) - free solo adventure for Risus: The Anything RPG
+- [Space Ace](https://p0rthos47.itch.io/space-aces) - super simple D20 & D6 rolling system [solo playthrough](https://docs.google.com/document/d/1RMsdSja7sLGf07HlTjTQT61yi4jgkpVklnqRrowti2c/edit)
 https://ogc.rpglibrary.org/index.php?title=OpenD6
 https://microlite20.org/
