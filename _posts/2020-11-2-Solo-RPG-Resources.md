@@ -55,7 +55,7 @@ Something restrictive - answering questions to get yes/no answers
 - [Risus: Ring of Thieves](https://www.drivethrurpg.com/product/172019/Risus-Ring-of-Thieves--A-Free-Fantasy-Solitaire-Adventure) - free solo adventure for Risus: The Anything RPG
 - [Space Ace](https://p0rthos47.itch.io/space-aces) - super simple D20 & D6 rolling system [solo playthrough](https://docs.google.com/document/d/1RMsdSja7sLGf07HlTjTQT61yi4jgkpVklnqRrowti2c/edit)
 - [OpenD6](https://ogc.rpglibrary.org/index.php?title=OpenD6)
-- [MircoLite20](https://microlite20.org/)
+- [MicroLite20](https://microlite20.org/)
 
 ### Interesting Solo RPG Blogs:
 - [Dan's Gaming Blog](https://dansgamingblog.wordpress.com/)
