@@ -41,7 +41,7 @@ A rubric - RPG system rules, such as:
 Something restrictive - answering questions to get yes/no answers
 - [RPGSolo yes/no](https://www.rpgsolo.com/)
 - [TinySoldiers yes/no](http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
-- [The Madey Upy Namey Emulator](https://homebrewery.naturalcrit.com/share/rkmo0t9k4Q) - [online](https://chartopia.d12dev.com/collection/620/) version
+- [The Madey Upy Namey Emulator](https://homebrewery.naturalcrit.com/share/rkmo0t9k4Q) - [online](https://chartopia.d12dev.com/collection/620/) version - yes/no with a d6 for "Yes, but," "No, and," etc., add another die and take the higher or lower for Likely or Unlikely odds, for every 6 rolled gain an intervention point and change entity or plot at 3 points, d10 table for unexpected results
 - [Recluse](https://gravenutterance.com/2019/03/24/recluse-solo-engine/) - answers yes/no based on the higher of two rolled dice, both 3 or less is a BUT and 4 or more is an AND, extra dice of a color for likely/unlikely, ties challenge the presupposition
 
 ### All inclusive:
