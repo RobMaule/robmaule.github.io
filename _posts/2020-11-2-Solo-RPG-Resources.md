@@ -56,3 +56,8 @@ Something restrictive - answering questions to get yes/no answers
 - [Space Ace](https://p0rthos47.itch.io/space-aces) - super simple D20 & D6 rolling system [solo playthrough](https://docs.google.com/document/d/1RMsdSja7sLGf07HlTjTQT61yi4jgkpVklnqRrowti2c/edit)
 https://ogc.rpglibrary.org/index.php?title=OpenD6
 https://microlite20.org/
+
+### Interesting Solo RPG Blogs:
+- [Dan's Gaming Blog](https://dansgamingblog.wordpress.com/)
+- [katamoiran](https://exposit.github.io/katamoiran/solos.html)
+- [ERYSSEL'S JOURNEYS](https://eryssel.blogspot.com/search/label/solo)
