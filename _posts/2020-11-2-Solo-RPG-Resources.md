@@ -42,7 +42,7 @@ Something restrictive - answering questions to get yes/no answers
 - [RPGSolo yes/no](https://www.rpgsolo.com/)
 - [TinySoldiers yes/no](http://tinysolitarysoldiers.blogspot.com/2012/04/solo-rpg.html)
 - [The Madey Upy Namey Emulator](https://homebrewery.naturalcrit.com/share/rkmo0t9k4Q) - [online](https://chartopia.d12dev.com/collection/620/) version
-- [Recluse](https://gravenutterance.com/2019/03/24/recluse-solo-engine/) - solo engine
+- [Recluse](https://gravenutterance.com/2019/03/24/recluse-solo-engine/) - answers yes/no based on the higher of two rolled dice, both 3 or less is a BUT and 4 or more is an AND, extra dice of a color for likely/unlikely, ties challenge the presupposition
 
 ### All inclusive:
 - [Four Against Darkness](https://boardgamegeek.com/boardgame/197097/four-against-darkness)
