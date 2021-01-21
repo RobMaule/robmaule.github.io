@@ -11,7 +11,7 @@ Generative resources - creating dungeons, NPCs, quests, items, monsters, etc.
 - [Tome of Adventure Design](https://froggodgames.com/product/tome-of-adventure-design/)
 - [Classic Dungeon Design Guide](https://www.drivethrurpg.com/product/202407/CASTLE-OLDSKULL--The-Classic-Dungeon-Design-Guide)
 - [Perchance](https://perchance.org/welcome) - create lists and randomize results
-- [One Page Solo Engine](https://1drv.ms/b/s!AtzchpqN1VcRheMPZbiFFBgyYHqAhw)
+- [One Page Solo Engine](https://inflatablestudios.itch.io/one-page-solo-engine)
 - [Play Every Role Solo Engine](http://playeveryrole.com/SEapp.html)
 - [Soloist](http://soloist.cyberealms.net/) - a game assistant for solo role-players
 - [DM Heroes](http://www.dmheroes.com) - NPC picture generator
