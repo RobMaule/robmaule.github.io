@@ -62,3 +62,6 @@ Something restrictive - answering questions to get yes/no answers
 - [katamoiran](https://exposit.github.io/katamoiran/solos.html)
 - [ERYSSEL'S JOURNEYS](https://eryssel.blogspot.com/search/label/solo)
 - [Solo Meta•nomy](https://solometanomy.wordpress.com/)
+
+### Journaling Games:
+[The Adventurer](https://jameschip.itch.io/the-adventurer)
