@@ -61,3 +61,4 @@ Something restrictive - answering questions to get yes/no answers
 - [Dan's Gaming Blog](https://dansgamingblog.wordpress.com/)
 - [katamoiran](https://exposit.github.io/katamoiran/solos.html)
 - [ERYSSEL'S JOURNEYS](https://eryssel.blogspot.com/search/label/solo)
+- [Solo Meta•nomy](https://solometanomy.wordpress.com/)
