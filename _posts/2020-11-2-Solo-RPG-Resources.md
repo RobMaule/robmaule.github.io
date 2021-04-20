@@ -23,6 +23,7 @@ Generative resources - creating dungeons, NPCs, quests, items, monsters, etc.
 - [Aladdin Technique](http://battreps.blogspot.com/2014/07/alladin-technique.html) - alters an encounter to make it unique
 - [Situations For Tabletop Roleplaying](https://levikornelsen.itch.io/situations1) - compilation of five situation-building tools
 - [Starting situation generator](https://latenightzen.blogspot.com/2020/10/starting-situation-generator.html?m=1) - for rolling dice to kick off an adventure
+- [ChaosGen](https://www.chaosgen.com/) - Tools for Ideas & RPGs
 
 Suggestive resources - provide direction and structure for your story.  Cards from other games, game maps, 
 - [Game Icons](https://game-icons.net/) - similar to Story Cubes
