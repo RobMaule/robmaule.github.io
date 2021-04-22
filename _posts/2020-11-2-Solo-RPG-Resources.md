@@ -67,3 +67,4 @@ Something restrictive - answering questions to get yes/no answers
 ### Journaling Games:
 - [The Adventurer](https://jameschip.itch.io/the-adventurer) - PWYW PDF
 - [Thousand Year Old Vampire](https://timhutchings.itch.io/tyov) - $15 PDF, $45 hardcover
+- [Journey](https://graycastlepress.itch.io/journey) - $10 PDF, $25 softcover
