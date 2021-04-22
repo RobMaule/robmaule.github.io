@@ -65,5 +65,5 @@ Something restrictive - answering questions to get yes/no answers
 - [Solo Meta•nomy](https://solometanomy.wordpress.com/)
 
 ### Journaling Games:
-[The Adventurer](https://jameschip.itch.io/the-adventurer) - PWYW PDF
-[Thousand Year Old Vampire](https://timhutchings.itch.io/tyov) - $15 PDF, $45 hardcover
+- [The Adventurer](https://jameschip.itch.io/the-adventurer) - PWYW PDF
+- [Thousand Year Old Vampire](https://timhutchings.itch.io/tyov) - $15 PDF, $45 hardcover
