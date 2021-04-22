@@ -66,3 +66,4 @@ Something restrictive - answering questions to get yes/no answers
 
 ### Journaling Games:
 [The Adventurer](https://jameschip.itch.io/the-adventurer)
+[Thousand Year Old Vampire](https://timhutchings.itch.io/tyov)
