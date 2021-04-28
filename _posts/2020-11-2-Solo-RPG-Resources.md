@@ -57,6 +57,7 @@ Something restrictive - answering questions to get yes/no answers
 - [Space Aces](https://p0rthos47.itch.io/space-aces) - super simple D20 & D6 rolling system [solo playthrough](https://docs.google.com/document/d/1RMsdSja7sLGf07HlTjTQT61yi4jgkpVklnqRrowti2c/edit)
 - [OpenD6](https://ogc.rpglibrary.org/index.php?title=OpenD6)
 - [MicroLite20](https://microlite20.org/)
+- [Ironsworn: Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged) - Kickstarter for sci-fi evolution of original Ironsworn system
 
 ### Interesting Solo RPG Blogs:
 - [Dan's Gaming Blog](https://dansgamingblog.wordpress.com/)
