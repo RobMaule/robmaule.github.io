@@ -25,9 +25,9 @@ Generative resources - creating dungeons, NPCs, quests, items, monsters, etc.
 - [Starting situation generator](https://latenightzen.blogspot.com/2020/10/starting-situation-generator.html?m=1) - for rolling dice to kick off an adventure
 - [ChaosGen](https://www.chaosgen.com/) - Tools for Ideas & RPGs
 
-Suggestive resources - provide direction and structure for your story.  Cards from other games, game maps, 
-- [Game Icons](https://game-icons.net/) - similar to Story Cubes
-- [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm) - uses Game Icons to randomly roll
+Suggestive resources - provide direction and structure for your story.  Cards from other games, game maps, etc.
+- [Storygen](https://rpg.nathanhare.net/storygen/) - customizable number of Story Cube-like dice for drawing inspiration
+- [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm) - uses [Game Icons](https://game-icons.net/) to randomly roll
 - [RPG Story Constructor](http://www.lustigesrollenspiel.de/storyconstructor/) - similar to above, but assigns icons to story parts or character traits 
 - [Situations For Tabletop Roleplaying](https://levikornelsen.itch.io/situations1) - compilation of situation building tools [Part 2](https://levikornelsen.itch.io/situations2)
 - [Idea Generator](http://ideagenerator.creativitygames.net/) - random words and icons
