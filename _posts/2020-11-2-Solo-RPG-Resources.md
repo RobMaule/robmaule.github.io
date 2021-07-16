@@ -4,7 +4,7 @@ title: Solo RPG Resources
 published: true
 ---
 
-My personal list of links and resources for solo RPG playing.  Categories from Geek Gamers (https://youtu.be/9GBPTec5TZA), which inspired my solo roleplaying.
+My personal list of links and resources for solo RPG playing.  Categories from [Geek Gamers](https://youtu.be/9GBPTec5TZA), which inspired my solo roleplaying.
 
 ### What you need:
 Generative resources - creating dungeons, NPCs, quests, items, monsters, etc.  
